@@ -16,7 +16,7 @@ from lxml import html
 
 from a0_mysql import del_sql,get_sql_data,to_sql
 # from a0_serversql import del_sql,get_sql_data,to_sql  # sql server 数据库
-''' 中国联合钢铁网：http://www.custeel.com/用户名：zhengtai 密码：123456'''
+
 '''2  可以获取除去2.4的其他数据，这里获取的是上月数据，为当天获取。非历史数据'''
 
 
