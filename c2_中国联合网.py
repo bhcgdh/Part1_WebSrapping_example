@@ -152,7 +152,7 @@ if __name__ == '__main__':
     '''1 基本数据，headers和网站的账号密码，登录网址的网址 '''
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'}
     ''' 注意，最好需要注册一个新的，公司用的账号，此处为私人账号，为避免可能的问题，后期会更改或清理，目前只做测试'''
-    data = {'username': 'zhengtai', 'password': '123456'}
+    data = {'username': '用户名', 'password': '密码'}
     login_url = 'http://www.custeel.com/reform/loginAjax.mv'
 
     '''2 需要获取数据的网址 '''
